@@ -1,0 +1,1 @@
+All of the sound effects in the game will be stored in this folder.

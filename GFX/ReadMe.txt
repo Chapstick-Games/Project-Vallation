@@ -1,0 +1,1 @@
+This will be where all of the graphics, artwork, and animation files will be stored.
